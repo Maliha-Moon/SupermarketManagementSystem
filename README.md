@@ -162,12 +162,7 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
   - Browse products, add them to the cart
   - Place orders
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+
 
 
 
