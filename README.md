@@ -165,6 +165,9 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
 ## Screenshots
 ### log-in 
 ![supermarket_log_in](https://github.com/user-attachments/assets/4ea28859-ac27-4ad3-8a88-06174687c343)
+### sign-up 
+![supermarket_sign_up](https://github.com/user-attachments/assets/abee2c39-dbbc-4120-99d3-9e7aac6aad53)
+
 
 
 
