@@ -162,10 +162,9 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
   - Browse products, add them to the cart
   - Place orders
 
-
-
-
-
+## Screenshots
+### log-in 
+![supermarket_log_in](https://github.com/user-attachments/assets/4ea28859-ac27-4ad3-8a88-06174687c343)
 
 
 
