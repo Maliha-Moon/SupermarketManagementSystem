@@ -131,9 +131,9 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
     
  **Step 5:** Execute the Database Schema Query
   - Download the SQL query file from the repository (located at databases/mysql_query.sql).
-  - Copy the contents of the mysql_query.sql file.
+  - Copy the contents of the ```mysql_query.sql``` file.
   - Option 1: In MySQL Command Prompt, paste the query and press Enter to execute.
-  - Option 2: In MySQL Workbench, open the mysql_query.sql file and click the Execute button.
+  - Option 2: In MySQL Workbench, open the ``` mysql_query.sql ``` file and click the Execute button.
 
 
 **5. Resolve Project Dependencies**
