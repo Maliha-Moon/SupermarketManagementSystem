@@ -175,6 +175,21 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
 ### Search products
 ![supermarket_search](https://github.com/user-attachments/assets/fb173612-ca11-4a5f-8e78-d1943abaa5b1)
 
+### Filter based on category & sub-category
+![image](https://github.com/user-attachments/assets/53d8779c-5f9f-475b-bd34-2d12bf14c392)
+
+### Add to cart
+![image](https://github.com/user-attachments/assets/48fde470-9aa6-4b55-8038-923c8624d9fb)
+
+### Order Placement
+![image](https://github.com/user-attachments/assets/f8e977fa-db78-4cf6-94c8-c2875bcdd9fd)
+*Before entering all details*
+
+![image](https://github.com/user-attachments/assets/81ce2ae4-f65a-424f-9aa3-1137829e55e1)
+*After entering all details*
+
+
+
 
 
 
