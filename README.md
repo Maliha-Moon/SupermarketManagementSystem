@@ -1,6 +1,6 @@
 # Supermarket Management System
 This is a Java-based supermarket management system using Java Swing. It helps manage product inventory, track customer orders, generate bills, and handle various aspects of a supermarket's operations.
-## Features
+## 🛩️ Features
 - **Product Management**: Add, update, and delete product details.
 - **Category & Sub-Category Management**: Organize products into categories and sub-categories for easier browsing.
 - **Cart Functionality**: Customers can add items to the cart, adjust quantities, and remove items.
@@ -9,12 +9,12 @@ This is a Java-based supermarket management system using Java Swing. It helps ma
 - **Order Processing with Bill Generation**: Easily process orders and generate detailed bills.
 - **User Authentication**: Secure login and registration for customers and admins.
 - **Stock Notifications**: Alerts for admins when product stock reaches zero.
-## Tech Stack
+## 🛠️ Tech Stack
 - **Programming Language:** Java
 - **UI Framework:** Swing
 - **Database:** MySQL
 - **Build Tool:** Maven
-## Software and Tools Required
+## 👩‍💻 Software and Tools Required
 
 To set up and run the Supermarket Management System (E-commerce), you need the following:
 
@@ -69,7 +69,7 @@ To set up and run the Supermarket Management System (E-commerce), you need the f
 - **Browser**: For viewing exported HTML reports or online references
 
 
-## Importing and Running The Project Through NetBeans
+## 🖥️ Importing and Running The Project Through NetBeans
 
 
   This section will guide you through importing and running the Supermarket Management System project using NetBeans IDE.
@@ -156,31 +156,37 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
 **8. Stop the Application**
   - To stop the application, simply close the running window or click the Stop button (red square icon) in NetBeans.
     
-## Usage
+## 💡 Usage
 - After launching the application, users can:
   - Register or log in
   - Browse products, add them to the cart
   - Place orders
 
-## Screenshots
+## 📸 Screenshots
 ### log-in 
 ![supermarket_log_in](https://github.com/user-attachments/assets/4ea28859-ac27-4ad3-8a88-06174687c343)
 
+---
 ### sign-up 
 ![supermarket_sign_up](https://github.com/user-attachments/assets/abee2c39-dbbc-4120-99d3-9e7aac6aad53)
 
+---
 ### Home Page
 ![supermarket_home_page](https://github.com/user-attachments/assets/07bbc40e-c966-4efd-a439-e6d9a0e06010)
 
+---
 ### Search products
 ![supermarket_search](https://github.com/user-attachments/assets/fb173612-ca11-4a5f-8e78-d1943abaa5b1)
 
+---
 ### Filter based on category & sub-category
 ![image](https://github.com/user-attachments/assets/53d8779c-5f9f-475b-bd34-2d12bf14c392)
 
+---
 ### Add to cart
 ![image](https://github.com/user-attachments/assets/48fde470-9aa6-4b55-8038-923c8624d9fb)
 
+---
 ### Order Placement
 ![image](https://github.com/user-attachments/assets/f8e977fa-db78-4cf6-94c8-c2875bcdd9fd)
 *Before entering all details*
@@ -188,6 +194,56 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
 ![image](https://github.com/user-attachments/assets/81ce2ae4-f65a-424f-9aa3-1137829e55e1)
 *After entering all details*
 
+---
+### Category Management
+![image](https://github.com/user-attachments/assets/088b606c-8fac-47d8-9cb6-ddc1bdbc97a2)
+
+---
+### Product Management
+![image](https://github.com/user-attachments/assets/203f0972-4686-45f6-8f7a-c891b2371822)
+
+*Add product*
+
+![image](https://github.com/user-attachments/assets/c09249e5-44f1-4818-83be-557e33205928)
+*Importing image of the product*
+
+---
+### Edit, Delete, Update Product
+![image](https://github.com/user-attachments/assets/9a8ffbb2-17d1-4d9c-8d6a-aebed3050b4a)
+
+
+## 📈Future Improvements
+
+While the current version of the Supermarket Management System is functional, there are several potential areas for improvement and enhancement in the future:
+
+1. **User Role Management**  
+   - Implement additional user roles such as cashier, stock manager, and delivery personnel with tailored access rights.
+
+2. **Inventory Management Enhancement**  
+   - Introduce real-time stock tracking, automatic reordering of low-stock products, and integration with suppliers for easier stock management.
+
+3. **Advanced Search Features**  
+   - Enhance the product search functionality with filters for category, price range, and ratings to improve user experience.
+
+4. **Analytics Dashboard**  
+   - Implement a dashboard for the admin to track sales, product performance, and customer trends using data visualization tools.
+
+5. **Mobile App Integration**  
+   - Develop a mobile app version of the system, allowing customers to browse products, place orders, and track delivery status on the go.
+
+6. **Customer Loyalty Program**  
+   - Introduce a loyalty program where customers earn points with every purchase, which can be redeemed for discounts on future orders.
+
+7. **Payment Gateway Integration**  
+   - Integrate popular payment gateways like PayPal, Stripe, or local payment systems to enable seamless online payments.
+
+8. **Cloud-Based System**  
+   - Transition the application to a cloud-based architecture to improve scalability, performance, and remote access for employees.
+
+9. **Order Delivery Tracking**  
+   - Add real-time delivery tracking so customers can monitor the status of their orders and estimated delivery times.
+
+These improvements would further enhance the functionality and usability of the Supermarket Management System, making it more efficient and user-friendly for both customers and administrators.
 
 
 
