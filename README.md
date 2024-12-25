@@ -14,7 +14,7 @@ This is a Java-based supermarket management system using Java Swing. It helps ma
 - **UI Framework:** Swing
 - **Database:** MySQL
 - **Build Tool:** Maven
-## 👩‍💻 Software and Tools Required
+## ⚙️ Software and Tools Required
 
 To set up and run the Supermarket Management System (E-commerce), you need the following:
 
@@ -69,7 +69,7 @@ To set up and run the Supermarket Management System (E-commerce), you need the f
 - **Browser**: For viewing exported HTML reports or online references
 
 
-## 🖥️ Importing and Running The Project Through NetBeans
+## 📥 Importing and Running The Project Through NetBeans
 
 
   This section will guide you through importing and running the Supermarket Management System project using NetBeans IDE.
@@ -156,7 +156,7 @@ git clone https://github.com/Maliha-Moon/supermarket-management.git
 **8. Stop the Application**
   - To stop the application, simply close the running window or click the Stop button (red square icon) in NetBeans.
     
-## 💡 Usage
+## 👩‍💻 Usage
 - After launching the application, users can:
   - Register or log in
   - Browse products, add them to the cart
